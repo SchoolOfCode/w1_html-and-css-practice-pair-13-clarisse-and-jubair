@@ -1,0 +1,31 @@
+body {
+    background-color: white;
+    font-family: arial, sans-serif;
+}
+
+a {
+    color: rgba(0,0,0,0.87);
+    text-decoration: none;
+}
+
+.topleftnav {
+    text-align: left;
+    font-size: 14px;
+}
+
+.toprightnav {
+text-align: right;
+    font-size: 14px;
+}
+
+.logo {
+    max-height: 100%;
+    max-width: 100%;
+    object-fit: contain;
+    object-position: center bottom;
+    width: auto;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+    width: 50%;
+}
